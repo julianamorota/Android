@@ -51,11 +51,11 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:layout_marginTop="16dp"
-        android:text="preço"
+        android:text="pedido"
         android:textAllCaps="true" />
 
     <TextView
-        android:id="@+id/price_text_view"
+        android:id="@+id/pedido_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="R$0"
